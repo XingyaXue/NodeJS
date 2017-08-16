@@ -8,12 +8,12 @@
 	"type": "git",
 	"url": "https://github.com/XingyaXue/NodeJS"
 	},
-	"keywords":{
+	"keywords":[
 	  "censor",
 	  "words"
-	},
+	],
 "dependencies": {},
 "engines": {
   "node": "*"
-  },
+  }
 }
