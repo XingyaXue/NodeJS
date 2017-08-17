@@ -1,7 +1,7 @@
 {
   "author": "Xingya Xue",
   "name": "censorify-xue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Censors words out of text",
   "main": "censortext",
   "repository": {
